@@ -22,7 +22,7 @@
     </a>
   </p>
 
-  <h3>🚀 <a href="https://porosh-portfolio-os.web.app">View Live Demo</a></h3>
+  <h3>🚀 <a href="https://my-portfolios-six.vercel.app">View Live Demo</a></h3>
 </div>
 
 <br />
@@ -129,7 +129,7 @@ To run this operating system locally on your machine:
 
 I build scalable systems and immersive web experiences. My work focuses on the intersection of mathematical precision and creative design.
 
-- **Portfolio:** [OS Portfolio](https://porosh-portfolio-os.web.app)
+- **Portfolio:** [OS Portfolio](https://my-portfolios-six.vercel.app)
 - **Email:** poroshislamtarek123@gmail.com
 - **LinkedIn:** [Porosh Islam Tarek](http://www.linkedin.com/in/porosh-islam-tarek-567836367)
 - **GitHub:** [@taanzzz](https://github.com/taanzzz)
